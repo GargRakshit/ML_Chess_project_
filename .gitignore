@@ -1,0 +1,9 @@
+.venv
+data/
+__pycache__/
+fen_data/
+new_data/
+venv/
+stockfish-windows-x86-64-avx2/
+stockfish-windows-x86-64-avx2.zip
+setup.cfg
