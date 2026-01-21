@@ -4,11 +4,11 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red.svg)](https://pytorch.org/)
 
-A deep learning-based chess engine that uses Convolutional Neural Networks (CNNs) to predict optimal moves. This project implements parallel models in both TensorFlow and PyTorch, featuring explainable AI capabilities through LIME (Local Interpretable Model-agnostic Explanations).
+A deep learning-based chess engine that uses Convolutional Neural Networks (CNNs) to predict optimal moves. This project implements a model for PyTorch, featuring explainable AI capabilities through LIME (Local Interpretable Model-agnostic Explanations).
 
 ## 🎯 Project Overview
 
-This AI chess engine learns to play chess by analyzing patterns from millions of games, rather than relying on handcrafted evaluation functions. The system achieves approximately *1500 ELO* performance during opening and middlegame phases.
+This AI chess engine learns to play chess by analyzing patterns from millions of games, rather than relying on handcrafted evaluation functions. The system achieves high performance during opening and middlegame phases.
 
 ### Key Features
 
@@ -126,6 +126,7 @@ Open Source and feel free to contribut
 ---
 
 *November 2025*
+
 
 
 
